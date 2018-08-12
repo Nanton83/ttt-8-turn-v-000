@@ -46,4 +46,4 @@ input_to_index(user_input)
 if valid_move?(board, index) == false
   turn(board)
 end
-
+end
