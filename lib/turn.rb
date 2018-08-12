@@ -48,5 +48,4 @@ if valid_move?(board, index) == true
 else
   turn(board)
 end
-  
 end
