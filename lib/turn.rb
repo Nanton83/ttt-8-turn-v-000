@@ -46,4 +46,4 @@ index = input_to_index(user_input)
 if valid_move?(index) == true
 
 end
-
+end
