@@ -46,6 +46,6 @@ if valid_move?(board, index)
   move
 else
   turn(board)
-  
-end
+  end
+  display_board
 end
