@@ -45,3 +45,4 @@ input = gets.strip
 if valid_move?(board, index)
   move
 end
+end
